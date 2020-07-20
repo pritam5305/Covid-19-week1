@@ -1,0 +1,8 @@
+title: Pritam5305.GitHub.io-covid-19-week1
+description: This week 1 forecasting task is now closed for submissions. Click here to visit the week 2 version, and make a submission there.  This is one of the two complementary forecasting tasks to predict COVID-19 spread. This task is based on various regions across the world. To start on a single state-level subcomponent, please see the companion forecasting task for California, USA.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-cayman
+
+gems:
+  - jekyll-mentions
